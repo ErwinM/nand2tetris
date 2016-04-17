@@ -5,9 +5,11 @@
 
 // Computes R0 = 2 + 3
 
-@2
-D=A
-@3
-D=D+A
-@0
-M=D
+(START)
+  @poep
+  D=A
+  @3
+(END)
+  D=D+A
+  @0
+  M=D
