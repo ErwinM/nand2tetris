@@ -6,7 +6,7 @@
 // Computes R0 = 2 + 3
 
 (START)
-  @poep
+  @2
   D=A
   @3
 (END)
