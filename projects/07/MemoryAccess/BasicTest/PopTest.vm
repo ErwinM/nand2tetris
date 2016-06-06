@@ -1,0 +1,2 @@
+push constant 666
+pop local 2

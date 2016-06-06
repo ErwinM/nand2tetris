@@ -3,7 +3,7 @@
 // by Nisan and Schocken, MIT Press.
 // File name: projects/07/MemoryAccess/StaticTest/StaticTest.tst
 
-load StaticTest.asm,
+load A.asm,
 output-file StaticTest.out,
 compare-to StaticTest.cmp,
 output-list RAM[256]%D1.6.1;
